@@ -1,0 +1,10 @@
+.formContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 10px;
+    border: 1px solid rgb(16, 16, 16);
+    border-radius: 5px;
+    background-color: #fff;
+}
